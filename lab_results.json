@@ -1,0 +1,21 @@
+{
+  "task1": {
+    "spike_times": [
+      6
+    ],
+    "max_voltage": 0.0,
+    "max_current": 3.0
+  },
+  "potentiation": {
+    "initial_weight": 2.0,
+    "final_weight": 2.0271451225410786,
+    "weight_change": 0.027145122541078592
+  },
+  "depression": {
+    "initial_weight": 2.0,
+    "final_weight": 1.9674258529507054,
+    "weight_change": -0.03257414704929462
+  },
+  "framework": "snnTorch",
+  "python": "3.13+"
+}
